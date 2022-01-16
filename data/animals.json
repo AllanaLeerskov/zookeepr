@@ -126,6 +126,15 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "asf",
+      "species": "adff",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "13"
     }
   ]
 }
